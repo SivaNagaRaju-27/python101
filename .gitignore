@@ -1,0 +1,2 @@
+# ignores all the byte code.
+*.pyc
