@@ -1,2 +1,5 @@
 # ignores all the byte code.
 *.pyc
+
+# ignores all .ipynb_checkpoints
+*.ipynb_checkpoints/
